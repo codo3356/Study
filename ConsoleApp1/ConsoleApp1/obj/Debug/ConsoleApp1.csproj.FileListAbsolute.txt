@@ -1,0 +1,7 @@
+H:\codo3356\Study\Study\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+H:\codo3356\Study\Study\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+H:\codo3356\Study\Study\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+H:\codo3356\Study\Study\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+H:\codo3356\Study\Study\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\codo3356\Study\Study\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+H:\codo3356\Study\Study\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
